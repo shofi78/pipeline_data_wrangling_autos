@@ -1,7 +1,7 @@
-# Repository for practice simple pipeline wrangling and preprocessing data
+# Repository simple pipeline wrangling and preprocessing data for practice
 
 ## Description of project
-The aim of this project is to create a simple pipeline for data wrangling and preprocessing autos datasets. And also our task in the Data Analyst in the Data Wrangling section.
+The aim of this project is to create a simple pipeline and also our task in the Data Analyst in the Data Wrangling section.
 
 ## Objective
 Carry out the process of cleaning the data that has been collected from the website for the needs of advanced modeling analysis
