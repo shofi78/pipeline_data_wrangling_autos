@@ -1,0 +1,7 @@
+README.md
+setup.py
+cars_data_prediction.egg-info/PKG-INFO
+cars_data_prediction.egg-info/SOURCES.txt
+cars_data_prediction.egg-info/dependency_links.txt
+cars_data_prediction.egg-info/requires.txt
+cars_data_prediction.egg-info/top_level.txt
